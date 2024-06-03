@@ -1,0 +1,23 @@
+[build-system]
+requires      = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sb3lib"
+version = "0.1"
+description = "sb3lib lets you interact with a sb3 file (a scratch 3 project)."
+readme = "README.md"
+authors = [{ name = "Antonabi", email = "anton@5k8.de" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["scratch", "sb3", "scratch-project"]
+#dependencies = [""] # empty for now
+requires-python = ">=3.7"
+
+    [project.urls]
+    repository    = "https://github.com/antonabi/sb3lib"
+    documentation = "https://github.com/antonabi/sb3lib"
