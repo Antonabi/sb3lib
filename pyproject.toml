@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sb3lib"
-version = "0.1"
+version = "0.1.1"
 description = "sb3lib lets you interact with a sb3 file (a scratch 3 project)."
 readme = "README.md"
 authors = [{ name = "Antonabi", email = "anton@5k8.de" }]

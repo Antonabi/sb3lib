@@ -34,3 +34,12 @@ For now I will not make a documentation because:
 - this isnt event done
 
 If you want to help me by adding features or fixing my shitty code, feel free to do so. (plssss!)
+
+## Changelog
+
+- Woo I made the repo
+- I added the changelog (I know its weird to write that in a changelog)
+
+## Checklist
+
+- add custumes
